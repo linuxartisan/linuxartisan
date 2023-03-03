@@ -4,6 +4,7 @@ I am Sandesh Patil.
 I have completed my Masters in Computer Engineering (in 2015). I have 12+ years of experience as a professional tutor and developer.
 
 - 💬 Ask me about
+    - Python
     - C
     - C++
     - Java
